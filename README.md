@@ -1,5 +1,9 @@
 # Smart Home Automation using STM32F401
 
+## 🎥 Demo Video
+[Click here to watch the video]([YOUR_VIDEO_LINK_HERE](https://www.youtube.com/watch?v=YpoFAt6k4QQ))
+
+
 This project is an STM32 microcontroller program that initializes and configures various **GPIO pins, ADC, and USART** to monitor sensors (PIR, Ultrasonic, LDR) and communicate with an external device via Bluetooth.  
 The system starts only when **PA6** is pressed, triggering an external interrupt.
 
